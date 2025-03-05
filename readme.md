@@ -17,6 +17,7 @@ This project implements a data processing pipeline that generates fake data, pro
 - ClickHouse Database
 
 ## Project Structure
+```
 BDR/
 ├── src/
 │   └── kafka_clickhouse_project/
@@ -31,6 +32,7 @@ BDR/
     └── test_kafka_clickhouse/
         ├── __init__.py
         └── test_producer.py
+```
 
 ## testing using produce.py or landing_api.ipynb
 

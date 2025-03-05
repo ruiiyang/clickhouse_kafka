@@ -44,9 +44,9 @@ landing_api.ipynb has various format of the data format to show there are many w
 currently produce.py is the main file to run the data generation and processing pipeline.
 
 there is not a finished project, it is a work in progress. still issues to be solved with Clickhouse.
- 1. pending items:
- using Avro format to send data to clickhouse 
- load clickhouse data in (some issue with parsing)
+## Pending items:
+ - using Avro format to send data to clickhouse 
+ - load clickhouse data in (some issue with parsing)
 
 
 
